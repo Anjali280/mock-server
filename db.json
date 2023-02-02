@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Ankit",
+      "age": 19,
+      "gender": "Male",
+      "country": "India",
+      "profession": "student"
+    },
+    {
+      "id": 1,
+      "name": "Anjali",
+      "age": 19,
+      "gender": "Female",
+      "country": "India",
+      "profession": "student"
+    },
+    {
+      "name": "Ankit",
+      "age": 19,
+      "gender": "Male",
+      "country": "India",
+      "profession": "student",
+      "id": 2
+    },
+    {
+      "name": "cat",
+      "age": 19,
+      "gender": "Male",
+      "country": "India",
+      "profession": "student",
+      "id": 3
+    },
+    {
+      "name": "snjl oidhovisd",
+      "age": "101",
+      "gender": "Male",
+      "country": "sdas",
+      "profession": "Student",
+      "id": 4
+    },
+    {
+      "name": "fsdaf",
+      "age": "2",
+      "gender": "Male",
+      "country": "saf",
+      "profession": "Employed",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "age": "420",
+      "gender": "Male",
+      "country": "abcd",
+      "profession": "Employed",
+      "id": 6
+    },
+    {
+      "name": "monkey",
+      "age": "1000",
+      "gender": "Others",
+      "country": "xyz",
+      "profession": "Employed",
+      "id": 7
+    }
+  ]
+}
